@@ -1,1 +1,1 @@
-# starbucks.com-clone
+# This is a clone for starbucks.com
